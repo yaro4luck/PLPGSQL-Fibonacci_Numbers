@@ -1,9 +1,9 @@
---
---   Fibonacci Function
---
--- Author: Yaroslav Kozlov
---   Date: 27.08.2022
---
+/*-----------------------------
+ *     Fibonacci Function
+ *
+ *   Author: Yaroslav Kozlov
+ *     Date: 27.08.2022
+ */----------------------------
 
 \echo
 \echo '╔═══════════════════╗'
