@@ -1,4 +1,4 @@
-/*-----------------------------
+/* ----------------------------
  *     Fibonacci Function
  *
  *   Author: Yaroslav Kozlov
