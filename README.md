@@ -5,4 +5,4 @@ Creating Fibonacci function with the help of PL/pgSQL language for calling it by
 
 ![output](output.png)
 
-:copyright:yaro4luck
+:copyright: yaro4luck
